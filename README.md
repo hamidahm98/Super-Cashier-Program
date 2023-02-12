@@ -55,7 +55,9 @@ Function used:
 + action_menu(self)
   * This function is used to manipulate transaction data after user input their order
 
-## **5. Code Demonstration**
+## **5. Test Case and Output**
+Test case : Add Item
+![image](https://user-images.githubusercontent.com/54068241/218323251-c9f68282-f707-487e-a9e4-8fd57ce59149.png)
 
 
 ## **6. Conclusion**

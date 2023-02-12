@@ -35,11 +35,27 @@ Flow chart explanation:
 ## **4. Function**
 Function used:
 + add_item(self, item_name, item_quantity, item_price)
-  - This function is used to add a new item.
+  * This function is used to add a new item.
 + update_item_name(self, last_item_name, new_item_name)
-  - This function to update an item name in item_list.
-+ 
+  * This function is used to update an item name in item_list.
++ update_item_quantity(self, last_item_name, new_item_quantity)
+  * This function is used to update an item quantity in item_list.
++ update_item_price(self, last_item_name, new_item_price)
+  * This function is used to update an item price in item_list.
++ delete_item(self, last_item_name)
+  * This function is used to delete an item in item_list.
++ reset_transaction(self)
+  * This function is used to reset all items in item_list. 
++ check_order(self)
+  * This function is used to check all items in item_list
++ check_out(self)
+  * This function is used to calculate total price of all items in item_list
++ input_order(self)
+  * This function is used to user input
++ action_menu(self)
+  * This function is used to manipulate transaction data after user input their order
 
 ## **5. Code Demonstration**
+
 
 ## **6. Conclusion**

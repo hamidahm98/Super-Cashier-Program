@@ -90,6 +90,5 @@ Test case: Check Out
 
 ![image](https://user-images.githubusercontent.com/54068241/218323544-fffe9333-3f66-467c-b9da-e183898435e4.png)
 
-
-
 ## **6. Conclusion**
+Super Cashier Program has been made using class with several objectives from the client. However, this program is still very simple and needs to be developed, such as creating a product database in the store so that it can minimize inconsistencies in user input. Other developments are needed for this program. Therefore, I expect input from readers for the development of this program.

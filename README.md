@@ -33,7 +33,12 @@ Flow chart explanation:
 14. The program stop
 
 ## **4. Function**
-
+Function used:
++ add_item(self, item_name, item_quantity, item_price)
+  This function is used to add a new item.
++ update_item_name(self, last_item_name, new_item_name)
+  This function to update an item name in item_list.
++ 
 
 ## **5. Code Demonstration**
 

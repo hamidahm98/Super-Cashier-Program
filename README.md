@@ -6,8 +6,8 @@ Super Cashier Program is a cashier program with the python programming language 
 
 ## **2. Objective**
 Program objective:
-  a. Adding new item to item list
-  b. Updating item name in item list with new item name
+_   a. Adding new item to item list
+_   b. Updating item name in item list with new item name
   c. 
 
 ## **3. Flow Chart**

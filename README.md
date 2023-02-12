@@ -70,5 +70,26 @@ Test case : Add Item
 
 ![image](https://user-images.githubusercontent.com/54068241/218323251-c9f68282-f707-487e-a9e4-8fd57ce59149.png)
 
+Test case: Check Order
+
+![image](https://user-images.githubusercontent.com/54068241/218323387-03792c20-7461-424c-aa4a-c6e3adb7ecdf.png)
+
+Test case: Delete Item
+
+![image](https://user-images.githubusercontent.com/54068241/218323428-8a013eda-7970-4061-9757-c0b3205253d5.png)
+
+![image](https://user-images.githubusercontent.com/54068241/218323445-76e36157-804b-443c-a1d5-598c015ed834.png)
+
+Test case: Reset Transaction and Repeat Transaction
+
+![image](https://user-images.githubusercontent.com/54068241/218323485-c3d27852-8f71-40b9-83f2-e3c88eae6e9a.png)
+
+![image](https://user-images.githubusercontent.com/54068241/218323523-61cbbbbb-684b-4ee1-b69f-956c4ceb35e2.png)
+
+Test case: Check Out
+
+![image](https://user-images.githubusercontent.com/54068241/218323544-fffe9333-3f66-467c-b9da-e183898435e4.png)
+
+
 
 ## **6. Conclusion**
